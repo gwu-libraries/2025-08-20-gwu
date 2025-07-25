@@ -316,7 +316,7 @@ REGISTRATION
 {% endcomment %}
 <h2 id="registration">Registration</h2>
 
-<p><b><i>Registration for this event will open on July 28, 2025.  Please check back.</i></b></p>
+<p><b><i>Registration for this event will open on July 28, 2025.  Please check back for a link that will appear here.</i></b></p>
 <!--
 <p>
 To register, please fill out and submit the registration form:
